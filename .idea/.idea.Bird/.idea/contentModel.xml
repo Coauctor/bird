@@ -128,6 +128,7 @@
           <e p="ReleaseNotes.txt" t="Include" />
         </e>
         <e p="Controls.cs" t="Include" />
+        <e p="Prey.cs" t="Include" />
         <e p="ProCore" t="Include">
           <e p="ProBuilder" t="Include">
             <e p="About" t="Include">
